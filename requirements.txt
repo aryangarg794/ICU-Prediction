@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+fairlearn
+nbstripout
+jupyter
+shap
+seaborn
+scikit-learn
+xgboost
+lightgbm
+tensorflow
